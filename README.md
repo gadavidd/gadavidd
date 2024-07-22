@@ -9,7 +9,7 @@ I am a researcher and developer specialized in industrial applications, ranging 
 
 - Signal Processing and Data Analysis;
 - Industrial Internet of Things (Hardware and Software);
-- Artificial Intelligence (though not a fan of the term), utilizing Constraint Satisfaction Problems (CSP), Machine Learning, and Deep Learning;
+- Artificial Intelligence (though not a fan of the term) utilizing Constraint Satisfaction Problems (CSP), Machine Learning, and Deep Learning;
 - Cloud Computing.
 ## Areas of Interest
 
