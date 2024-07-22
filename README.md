@@ -2,6 +2,7 @@
 
 I am a researcher and developer specialized in industrial applications, ranging from hardware to software. I am a doctoral student with a master's degree in Electrical Engineering and always studying Computer Science(Back-end). I have a great interest in exploring and solving new problems and developing efficient solutions.
 
+
 [![My Skills](https://skillicons.dev/icons?i=java,c,python,matlab,javascript&theme=light)](https://skillicons.dev)
 
 ## Development and Research Focus
