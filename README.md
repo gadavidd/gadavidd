@@ -2,6 +2,7 @@
 
 I am a researcher and developer specialized in industrial applications, ranging from hardware to software. I am a doctoral student with a master's degree in Electrical Engineering and always studying Computer Science(Back-end). I have a great interest in exploring and solving new problems and developing efficient solutions.
 
+[![My Skills](https://skillicons.dev/icons?i=java,c,python,matlab,javascript&theme=light)](https://skillicons.dev)
 
 ## Development and Research Focus
 
@@ -15,11 +16,11 @@ I am a researcher and developer specialized in industrial applications, ranging 
 - Industrial applications, from tools to full-scale solutions;
 - Energy consumption and transmission.
 ## Programming Languages
-
 - Java [[See My Java Progress]](https://github.com/gadavidd/myJavaStudy)
 - C/C++
 - Python
 - MATLAB
+- Javascript
 ## Languages Spoken
 
 - Native Portuguese
