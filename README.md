@@ -35,3 +35,5 @@ I am a researcher and developer specialized in industrial applications, ranging 
 - [3] G. A. David, R. Guarnetti, G. De Oliveira, E. P. Godoy and P. De Oliveira Conceição, "Gestão de Ativos Industriais de uma Linha de Transporte de Paletes usando IIoT," 2021 14th IEEE International Conference on Industry Applications (INDUSCON), São Paulo, Brazil, 2021, pp. 488-494, doi: 10.1109/INDUSCON51756.2021.9529747.
 
 - [4] G. A. David, "Detecção e caracterização da ocorrência de descargas corona em sistemas HVDC por meio de técnicas de processamento digital de sinais," 2023. [Online]. Available: https://repositorio.unesp.br/items/8908995e-c05e-4236-8909-5d2c08e52e01.
+
+ [Ver mais...](https://orcid.org/0000-0003-2343-4883)
