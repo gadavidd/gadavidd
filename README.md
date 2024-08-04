@@ -38,4 +38,6 @@ I am a researcher and developer specialized in industrial applications, ranging 
 
 - [4] G. A. David, "Detecção e caracterização da ocorrência de descargas corona em sistemas HVDC por meio de técnicas de processamento digital de sinais," 2023. [Online]. Available: https://repositorio.unesp.br/items/8908995e-c05e-4236-8909-5d2c08e52e01.
 
- [See more...](https://orcid.org/0000-0003-2343-4883)
+## See More in:
+- [ORCID](https://orcid.org/0000-0003-2343-4883)
+- [Send me an email](mailto:gadavid@usp.br)
