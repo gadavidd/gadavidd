@@ -2,6 +2,9 @@
 
 I am a researcher and developer specialized in industrial applications, ranging from hardware to software. I am a doctoral student with a master's degree in Electrical Engineering and always studying Computer Science. I have a great interest in exploring and solving new problems and developing efficient solutions.
 
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,python,matlab,javascript&theme=light)](https://skillicons.dev)
 
