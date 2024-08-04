@@ -40,4 +40,5 @@ I am a researcher and developer specialized in industrial applications, ranging 
 
 ## See More in:
 - [ORCID](https://orcid.org/0000-0003-2343-4883)
+- [LinkedIN](https://www.linkedin.com/in/gabriel-david-3813568a/)
 - [Send me an email](mailto:gadavid@usp.br)
