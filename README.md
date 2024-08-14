@@ -4,6 +4,9 @@ I am a researcher and developer specialized in industrial applications, ranging 
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,python,matlab,javascript&theme=light)](https://skillicons.dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadavidd&layout=compact)
+
+
 ## Development and Research Focus
 
 - Signal Processing and Data Analysis;
