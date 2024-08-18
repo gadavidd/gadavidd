@@ -19,7 +19,7 @@ I am a researcher and developer specialized in industrial applications, ranging 
 - Industrial applications, from tools to full-scale solutions;
 - Energy consumption and transmission.
 ## Programming Languages
-- Java [[See My Java Progress]](https://github.com/gadavidd/myJavaStudy)
+- Java [[See My Java Progress]](https://github.com/gadavidd/javaProgress/tree/master)
 - C/C++
 - Python
 - MATLAB
