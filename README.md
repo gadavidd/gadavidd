@@ -13,11 +13,18 @@ I am a researcher and developer specialized in industrial applications, ranging 
 - Industrial Internet of Things (Hardware and Software);
 - Artificial Intelligence (though not a fan of the term) utilizing Constraint Satisfaction Problems (CSP), Machine Learning, and Deep Learning;
 - Cloud Computing.
+  
 ## Areas of Interest
 
 - Development of intelligent engineering systems;
 - Industrial applications, from tools to full-scale solutions;
 - Energy consumption and transmission.
+
+## Subtopics
+
+- Constraint Solver Programming;
+- Time series study and applications.
+  
 ## Programming Languages
 - Java [[See My Java Progress]](https://github.com/gadavidd/javaProgress/tree/master)
 - C/C++
