@@ -30,6 +30,7 @@ I am a researcher and developer specialized in industrial applications, ranging 
 - C/C++
 - Python
 - MATLAB
+- Go
 - Javascript
 ## Languages Spoken
 
