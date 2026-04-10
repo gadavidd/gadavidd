@@ -1,11 +1,31 @@
 # David
 
-I am a researcher and developer specialized in industrial applications, ranging from hardware to software. I am a research with a PHD's degree in Electrical Engineering and always studying Computer Science. I have a great interest in exploring and solving new problems and developing efficient solutions.
+Backend & AI Engineer focused on industrial systems, intelligent configurators, and applied artificial intelligence.
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=java,c,python,matlab,javascript&theme=light)](https://skillicons.dev) -->
+## About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadavidd&layout=compact&hide_progress=false)
+I work on the development of backend services, APIs, and AI-driven features for industrial systems. My experience combines software engineering, distributed systems, Internet of Things (IoT) and applied AI, including constraint programming and Large Language Models (LLMs).
+My background includes research and development in Electrical Engineering and Computer Science, with experience in transforming research prototypes into production-ready systems.
 
+## Technical Focus
+
+- Backend Development (Java, Spring, APIs, Microservices)
+- Distributed Systems and System Integration
+- Artificial Intelligence (LLMs, Constraint Programming, Machine Learning)
+- Industrial Systems and IoT
+
+## Tech Stack
+
+- **Languages:** Java, Python, Go, C++
+- **Frameworks:** Spring Framework
+- **Tools:** Git, Docker
+- **Other:** Cloud & IoT Systems
+
+## Previous Work
+
+- IoT-based monitoring systems for industrial and agricultural environments  
+- AI-driven industrial optimization and recommendation systems  
+- Signal processing and data analysis applications  
 
 ## Development and Research Focus
 
@@ -17,27 +37,18 @@ I am a researcher and developer specialized in industrial applications, ranging 
 ## Areas of Interest
 
 - Development of intelligent engineering systems;
-- Industrial applications, from tools to full-scale solutions;
-- Energy consumption and transmission.
-
-## Subtopics
-
 - Constraint Solver Programming;
+- Industrial applications, from tools to full-scale solutions;
+- Energy consumption and transmission;
 - Time series study and applications.
-  
-## Programming Languages
-- Java [[See My Java Progress]](https://github.com/gadavidd/javaProgress/tree/master)
-- C/C++
-- Python
-- MATLAB
-- Go
-- Javascript
-## Languages Spoken
 
-- Native Portuguese
-- Fluent in English
-- Learning German
+## Languages
+
+- Portuguese (Native)
+- English (Advanced)
+- German (Learning)
 - At some point still learn Italian, Spanish and Chinese
+
 ## Key Published Scientific Papers
 - [1] G. A. David, P. M. d. C. Monson, C. Soares, P. d. O. Conceição, P. R. de Aguiar and A. Simeone, **IoT-Driven Deep Learning for Enhanced Industrial Production Forecasting**, in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3447579. https://doi.org/10.1109/JIOT.2024.3447579.
   
