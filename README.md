@@ -1,6 +1,6 @@
 # David
 
-I am a researcher and developer specialized in industrial applications, ranging from hardware to software. I am a research with a master's degree in Electrical Engineering and always studying Computer Science. I have a great interest in exploring and solving new problems and developing efficient solutions.
+I am a researcher and developer specialized in industrial applications, ranging from hardware to software. I am a research with a PHD's degree in Electrical Engineering and always studying Computer Science. I have a great interest in exploring and solving new problems and developing efficient solutions.
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=java,c,python,matlab,javascript&theme=light)](https://skillicons.dev) -->
 
@@ -11,7 +11,7 @@ I am a researcher and developer specialized in industrial applications, ranging 
 
 - Signal Processing and Data Analysis;
 - Industrial Internet of Things (Hardware and Software);
-- Artificial Intelligence (though not a fan of the term) utilizing Constraint Satisfaction Problems (CSP), Machine Learning, and Deep Learning;
+- Artificial Intelligence utilizing Constraint Satisfaction Problems (CSP), Large Language Model, Machine Learning, and Deep Learning;
 - Cloud Computing.
   
 ## Areas of Interest
