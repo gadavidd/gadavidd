@@ -9,7 +9,7 @@ My background includes research and development in Electrical Engineering and Co
 
 ## Technical Focus
 
-- Backend Development (Java, Spring, APIs, Microservices)
+- Backend Development (Go, Java, Spring, APIs, Microservices)
 - Distributed Systems and System Integration
 - Artificial Intelligence (LLMs, Constraint Programming, Machine Learning)
 - Industrial Systems and IoT
